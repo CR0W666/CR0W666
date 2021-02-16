@@ -12,6 +12,6 @@
   <hr>
   <p align="center">
     Have a nice day. &#127988&#8205&#9760&#65039<br>
-    <a href="https://twitter.com/intent/tweet?text=@lvcastrelec%20Heyo,%20I%20come%20from%20github%21%21%20" style="width: 150px;"><kbd>hit me up on twitter</kbd></a> <a href="https://www.instagram.com/lvcastrelec/"><kbd>stalk me on ig</kbd></a>
+    <a href="https://twitter.com/intent/tweet?text=@lvcastrelec%20Heyo,%20I%20come%20from%20github%21%21%20" style="width: 50%"><kbd>hit me up on twitter</kbd></a> <a href="https://www.instagram.com/lvcastrelec/"><kbd>stalk me on ig</kbd></a>
    </p>
 </details>
