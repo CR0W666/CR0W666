@@ -8,7 +8,7 @@
 <details>
   <summary align="center"><samp>click me. I dare you.</samp></summary>
   <hr>
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/xTk9ZOk8WmSKQpFg1W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/cube-matrix-xTk9ZOk8WmSKQpFg1W">via GIPHY</a></p> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in &#127464&#127487 Prague. <code>Coding</code> and <code>learning</code> is my passion.
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/xTk9ZOk8WmSKQpFg1W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif">via GIPHY</a></p> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in &#127464&#127487 Prague. <code>Coding</code> and <code>learning</code> is my passion.
   <hr>
   <p align="center">
     Have a nice day. &#127988&#8205&#9760&#65039<br>
