@@ -4,6 +4,7 @@
     -->
 
 <img src="https://giphy.com/gifs/sailor-moon-sleeping-CTcyjVJQMEi2Y" alt="luna">
+ <img src="https://media.giphy.com/media/CTcyjVJQMEi2Y/giphy.gif">
 </p>
 
 <details>
