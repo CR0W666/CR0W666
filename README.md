@@ -8,7 +8,7 @@
 <details>
   <summary align="center"><samp>click me. I dare you.</samp></summary>
   <hr>
-  <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" alt="cube" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in 	U+1F1E8 U+1F1FF	 Prague. <code>Coding</code> and <code>learning</code> is my passion.
+  <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" alt="cube" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in 🇨🇿 Prague. <code>Coding</code> and <code>learning</code> is my passion.
   <hr>
   <p align="center">
     Have a nice day.<br>
