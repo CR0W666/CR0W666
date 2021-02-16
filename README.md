@@ -9,7 +9,7 @@
 <details>
   <summary align="center"><samp>some rollout intro text</samp></summary>
   <hr>
-  <img src="https://media.giphy.com/media/f60vA8a6I19HhpC4z9/giphy.gif" alt="Skull" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm still a student. <code>Coding</code> and <code>learning</code> is my passion.
+  <img src="https://media.giphy.com/media/CTcyjVJQMEi2Y/giphy.gif" alt="Skull" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm still a student. <code>Coding</code> and <code>learning</code> is my passion.
   <hr>
   <p align="center">
     Have a nice day.<br>
