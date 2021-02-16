@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/VeC91e5rNwYWzPdMD3/giphy.gif" alt="stars">
+  <img src="https://media.giphy.com/media/KcePHlH8aT5vE519xe/giphy.gif" alt="symbols">
+  <img src="https://media.giphy.com/media/hWMKTFVdIuzyPF7QrO/giphy.gif" alt="hello">
+  <img src="https://media.giphy.com/media/KcePHlH8aT5vE519xe/giphy.gif" alt="symbols">
+  <img src="https://media.giphy.com/media/VeC91e5rNwYWzPdMD3/giphy.gif" alt="stars">
+</p>
 
-<!--
-**CR0W666/CR0W666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary align="center"><samp>some rollout intro text</samp></summary>
+  <hr>
+  <img src="https://media.giphy.com/media/YqKtkucWXPviyAUzFT/giphy.gif" alt="Skull" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm still a student. <code>Coding</code> and <code>learning</code> is my passion.
+  <hr>
+  <p align="center">
+    Have a nice day.<br>
+    <a href="https://twitter.com/intent/tweet?text=@lvcastrelec%20Heyo,%20I%20come%20from%20github%21%21%20"><kbd>hit me up on twitter</kbd></a> <a href="https://www.instagram.com/lvcastrelec/"><kbd>stalk me on ig</kbd></a>
+   </p>
+</details>
