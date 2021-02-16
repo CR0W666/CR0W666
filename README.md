@@ -2,15 +2,13 @@
     <!-- 
     <img src="https://media.giphy.com/media/KcePHlH8aT5vE519xe/giphy.gif" alt="symbols">
     -->
-
-<img src="https://giphy.com/gifs/sailor-moon-sleeping-CTcyjVJQMEi2Y" alt="luna">
- <img src="https://media.giphy.com/media/CTcyjVJQMEi2Y/giphy.gif">
+ <img src="https://media.giphy.com/media/CTcyjVJQMEi2Y/giphy.gif" alt="luna">
 </p>
 
 <details>
   <summary align="center"><samp>some rollout intro text</samp></summary>
   <hr>
-  <img src="https://media.giphy.com/media/CTcyjVJQMEi2Y/giphy.gif" alt="Skull" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm still a student. <code>Coding</code> and <code>learning</code> is my passion.
+  <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" alt="cube" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm still a student. <code>Coding</code> and <code>learning</code> is my passion.
   <hr>
   <p align="center">
     Have a nice day.<br>
