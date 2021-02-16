@@ -8,7 +8,7 @@
 <details>
   <summary align="center"><samp>click me. I dare you.</samp></summary>
   <hr>
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" align="left" valign="middle" width="35%" height="35%" frameBorder="0"></img></div> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in &#127464&#127487 Prague.<br> <code>Coding</code> and <code>learning</code> is my passion.<br> I am learning: <br> *Java *Javascript // Angular *Python *SQL
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" align="left" valign="middle" width="35%" height="35%" frameBorder="0"></img></div> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in &#127464&#127487 Prague.<br> <code>Coding</code> and <code>learning</code> is my passion.<br> I am learning: <br> <ul><li>Java</li> <li>Javascript // Angular</li> <li>Python</li> <li>SQL</li>
   <hr>
   <p align="center">
     Have a nice day. &#127988&#8205&#9760&#65039<br>
