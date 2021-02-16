@@ -8,7 +8,7 @@
 <details>
   <summary align="center"><samp>some rollout intro text</samp></summary>
   <hr>
-  <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" alt="cube" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm still a student. <code>Coding</code> and <code>learning</code> is my passion.
+  <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy-downsized.gif" alt="cube" align="left" valign="middle"> Hi, i’m <strong>CR0W</strong>. I'm a computer science student based in 🇨🇿Prague. <code>Coding</code> and <code>learning</code> is my passion.
   <hr>
   <p align="center">
     Have a nice day.<br>
